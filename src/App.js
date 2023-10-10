@@ -29,6 +29,6 @@ export default App;
 
 /*here we only import Videocall.js but all other component(setting.js,Controls.js , Video.js,screenshare.js line no 79) are imported and
  used in Videocall.js  ok
-for screen share we only work in screenshare.js only but to other file 
+for screen share we only work in screenshare.js only and screenshare.js imported in videocall.js ok that much
  
  */
