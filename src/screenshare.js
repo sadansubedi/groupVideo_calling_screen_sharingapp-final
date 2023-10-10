@@ -7,9 +7,9 @@ function ScreenShare() {
   //console.log(tracks[1]);
   //let client = null;
   let screenTrack = null;
-  const AppID ='d1c732e22f2743d7b97184d404a6536e';
+  const AppID ='get it from agora https://console.agora.io/projects';
   const channelName = 'screenshare2';
-  const token ="007eJxTYAiZ4PnYXWVNkTTfHsaK7H2n95zVeJG1/NcO81+solc6U30UGFIMk82NjVKNjNKMzE2MU8yTLM0NLUxSTAxMEs1Mjc1Sj3xWSW0IZGRI0DzDxMgAgSA+D0NxclFqal5xRmJRqhEDAwA+IiIk"
+  const token ="same get it from agora ok"
   
 
   const [uuid, setUuid] = useState();
