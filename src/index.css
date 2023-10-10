@@ -1,0 +1,46 @@
+/* 
+.agorovideo{
+    height: 100%;
+    width: 100%;
+    display:grid;
+    position:static
+}
+.agorovideo > div{
+    position: unset;
+    background-color: darkblue;
+}
+.agorovideo > div > video{
+    position: unset;
+    background-color: darkblue;
+} */
+
+
+
+
+/* .App .agora #agora-video-player-track-cam-caf0ae88{
+    position: none;
+} */
+
+/* .App .agora::after{
+    background-color: black;
+    position: none;
+} */
+/* 
+.App .agora #agora-video-player-track-cam-caf0ae88 {
+    position: none;
+} */
+/*  */
+/* 
+.agora_video_player{
+display: grid;
+position: none;
+height: 80%;
+width: 50%;
+background-color: black;
+}
+
+.agora_video_player::after{
+    display: grid;
+    position: none;
+    
+    } */
